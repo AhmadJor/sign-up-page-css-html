@@ -16,3 +16,6 @@ To use this sign-up page, you will need to download or clone the project from Gi
 - Clone the repository to your local machine
 - Open the HTML file in your web browser
 - Fill in the form fields and submit the form
+
+
+![](web-page.png)
